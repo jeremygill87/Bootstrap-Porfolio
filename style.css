@@ -1,11 +1,13 @@
-body,
 html,
+body, 
 .container-fluid {
-    height: 100%;
+    height: auto;
 }
 
 .container-fluid {
     background-image: url(prism.png);
+    background-size: 100%;
+    background-repeat: repeat;
 }
 
 p {
@@ -81,4 +83,3 @@ p {
     width: 95%;
     height: 200px;
 }
-
