@@ -1,0 +1,20 @@
+.container-fluid {
+    background-image: url(prism.png);
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    border-bottom-style: solid;
+    border-bottom-color: slategray;
+    margin: 5px;
+}
+
+.img-fluid {
+    width: 200px;
+    height: 200px;
+}
+
+.mainbox {
+    margin-top: 10px;
+}
