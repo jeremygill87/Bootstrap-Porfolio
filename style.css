@@ -1,3 +1,9 @@
+body,
+html,
+.container-fluid {
+    height: 100%;
+}
+
 .container-fluid {
     background-image: url(prism.png);
 }
@@ -33,3 +39,46 @@ p {
   img {
       float:left;
   }
+
+  .inputbox {
+    text-align: left;
+    margin-left: 20px;
+    width: 80%;
+    margin-top: 10px;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inputmessage {
+   text-align: left;
+   margin-left: 20px;
+   width: 80%;
+   margin-top: 20px;
+   color: #777777;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.submitbutton {
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-control {
+    text-align: left;
+    width: 95%;
+    height: 25px;
+}
+.form-control1 {
+    text-align:left;
+    width: 95%;
+    height: 200px;
+}
+
