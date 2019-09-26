@@ -6,8 +6,6 @@ body,
 
 .container-fluid {
     background-image: url(prism.png);
-    background-size: 100%;
-    background-repeat: repeat;
 }
 
 p {
